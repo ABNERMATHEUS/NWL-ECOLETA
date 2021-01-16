@@ -11,7 +11,7 @@ Mobile: #reactnative com #typescript e #expo.
 ![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
 
 
-![Alt text](https://media-exp1.licdn.com/dms/image/C5622AQGleO_0W5MsFg/feedshare-shrink_2048_1536/0?e=1603324800&v=beta&t=RKgtBnIbLRPjs9WNbIvxePRgU7sQJCYS4AAmgfAeItE)
+![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/2.jpg)
 
 
-![Alt text](https://media-exp1.licdn.com/dms/image/C5622AQEPtZAyXAj5MA/feedshare-shrink_1280/0?e=1603324800&v=beta&t=K5383dB6OHqzKqyqmyyiCBKnJqv8gBLT9FcAdZxcYEU)
+![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
