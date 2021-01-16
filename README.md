@@ -8,10 +8,10 @@ Backend : #nodejs com #typescript, #sqLite, #knex e #celebrate para validações
 Frontend : #reactjs com #typescript
 Mobile: #reactnative com #typescript e #expo.
 
-![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
+![Tela Inicial](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
 
 
-![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/2.jpg)
+![Mobile](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/2.jpg)
 
 
-![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
+![Formulário](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
