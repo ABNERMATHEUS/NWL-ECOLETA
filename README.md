@@ -8,7 +8,7 @@ Backend : #nodejs com #typescript, #sqLite, #knex e #celebrate para validações
 Frontend : #reactjs com #typescript
 Mobile: #reactnative com #typescript e #expo.
 
-![Alt text](https://media-exp1.licdn.com/dms/image/C5622AQHMawtBBqVeSQ/feedshare-shrink_2048_1536/0?e=1603324800&v=beta&t=huaQd5LRCuv68KjexnJg3lPiNxnDuATgsN5CEiopmCM)
+![Alt text](https://github.com/ABNERMATHEUS/NWL-ECOLETA/blob/master/assets/1.jpg)
 
 
 ![Alt text](https://media-exp1.licdn.com/dms/image/C5622AQGleO_0W5MsFg/feedshare-shrink_2048_1536/0?e=1603324800&v=beta&t=RKgtBnIbLRPjs9WNbIvxePRgU7sQJCYS4AAmgfAeItE)
